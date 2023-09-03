@@ -1,0 +1,13 @@
+.body {
+    background-image: url(../img/bg-gif.gif);  
+    background-repeat: no-repeat;  
+    background-attachment: fixed;  
+    background-size: cover;
+}
+.row {
+    display: flex;
+  }
+  
+  .column {
+    flex: 50%;
+  }
